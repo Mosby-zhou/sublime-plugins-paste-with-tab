@@ -1,0 +1,14 @@
+[
+	{
+		"id": "edit",
+		"children":
+		[
+			{ "caption": "-", "id": "clipboard" },
+			{
+				"caption": "带缩进的粘贴",
+				"command": "paste_with_tab"
+			},
+
+		]
+	}
+]
